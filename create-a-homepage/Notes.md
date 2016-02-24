@@ -52,3 +52,9 @@
 16. Adjust height by setting vertical-align: top for *
 17. Add 20px margin-top to push nav ul down
 18. Add border-bottom: 2px solid #fff to nav ul a:hover
+
+# JavaScript
+
+document.querySelector('element here').addEventListener('click', function() {
+
+})
